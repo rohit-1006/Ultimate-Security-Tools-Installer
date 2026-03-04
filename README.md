@@ -889,7 +889,7 @@ install_tool "Tool Name" '
 - Check the error log: `~/security-tools/logs/errors_*.log`
 - Include your OS version and architecture
 - Provide the relevant log output
-- Open an issue with the [Bug Report template](.github/ISSUE_TEMPLATE/bug_report.md)
+- Open an issue with the [Issues](.https://github.com/rohit-1006/Ultimate-Security-Tools-Installer/issues)
 
 ### Guidelines
 
