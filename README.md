@@ -18,7 +18,6 @@
 [Quick Start](#-quick-start) •
 [Tool Categories](#-tool-categories) •
 [Custom Scripts](#-custom-scripts-included) •
-[Screenshots](#-screenshots) •
 [FAQ](#-faq)
 
 ---
