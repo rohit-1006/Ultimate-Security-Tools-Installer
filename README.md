@@ -10,8 +10,6 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=for-the-badge)](pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained-Yes-blue.svg?style=for-the-badge)](.)
 
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/security/security.png" width="120" alt="Security">
-
 **Install 500+ penetration testing, bug bounty, red teaming & security auditing tools with a single command.**
 
 **Zero interruptions. Full error handling. Every failure is logged, never stops.**
@@ -28,28 +26,6 @@
 <img width="596" height="219" alt="image" src="https://github.com/user-attachments/assets/5388ca9e-2e6d-4891-9ce6-fa9c0b5f0b40" />
 
 </div>
-
----
-
-## 📋 Table of Contents
-
-- [Features](#-features)
-- [Quick Start](#-quick-start)
-- [Requirements](#-requirements)
-- [Installation](#-installation)
-- [Tool Categories](#-tool-categories)
-- [Complete Tool List](#-complete-tool-list)
-- [Custom Scripts Included](#-custom-scripts-included)
-- [Directory Structure](#-directory-structure)
-- [Logging & Reports](#-logging--reports)
-- [Wordlists](#-wordlists-included)
-- [Post-Installation](#-post-installation)
-- [Troubleshooting](#-troubleshooting)
-- [FAQ](#-faq)
-- [Contributing](#-contributing)
-- [Legal Disclaimer](#%EF%B8%8F-legal-disclaimer)
-- [License](#-license)
-- [Star History](#-star-history)
 
 ---
 
@@ -111,10 +87,10 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ultimate-security-tools-installer.git
+git clone https://github.com/rohit-1006/Ultimate-Security-Tools-Installer.git
 
 # Navigate to the directory
-cd ultimate-security-tools-installer
+cd Ultimate-Security-Tools-Installer
 
 # Make executable
 chmod +x install.sh
@@ -156,8 +132,8 @@ sudo ./install.sh
 ### Method 1: Git Clone (Recommended)
 
 ```bash
-git clone https://github.com/yourusername/ultimate-security-tools-installer.git
-cd ultimate-security-tools-installer
+git clone https://github.com/rohit-1006/Ultimate-Security-Tools-Installer.git
+cd Ultimate-Security-Tools-Installer
 chmod +x install.sh
 sudo ./install.sh
 ```
@@ -165,13 +141,13 @@ sudo ./install.sh
 ### Method 2: One-Liner
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/yourusername/ultimate-security-tools-installer/main/install.sh | sudo bash
+curl -sSL https://raw.githubusercontent.com/rohit-1006/Ultimate-Security-Tools-Installer/main/install.sh | sudo bash
 ```
 
 ### Method 3: Wget
 
 ```bash
-wget -qO install.sh https://raw.githubusercontent.com/yourusername/ultimate-security-tools-installer/main/install.sh
+wget -qO install.sh https://raw.githubusercontent.com/rohit-1006/Ultimate-Security-Tools-Installer/main/install.sh
 chmod +x install.sh
 sudo ./install.sh
 ```
@@ -947,32 +923,6 @@ By using this installer and the tools it installs, you agree that:
 5. You assume all responsibility for your actions when using these tools.
 
 UNAUTHORIZED ACCESS TO COMPUTER SYSTEMS IS A CRIMINAL OFFENSE.
-```
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License
-
-Copyright (c) 2024
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 ```
 
 ---
