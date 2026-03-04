@@ -7,7 +7,6 @@
 [![Bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Tools](https://img.shields.io/badge/Tools-500+-red?style=for-the-badge&logo=kalilinux&logoColor=white)](.)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=for-the-badge)](pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained-Yes-blue.svg?style=for-the-badge)](.)
 
 **Install 500+ penetration testing, bug bounty, red teaming & security auditing tools with a single command.**
