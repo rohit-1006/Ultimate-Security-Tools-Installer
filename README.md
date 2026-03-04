@@ -25,8 +25,7 @@
 
 ---
 
-<img width="800" alt="banner" src="<img width="596" height="219" alt="image" src="https://github.com/user-attachments/assets/5388ca9e-2e6d-4891-9ce6-fa9c0b5f0b40" />
-">
+<img width="596" height="219" alt="image" src="https://github.com/user-attachments/assets/5388ca9e-2e6d-4891-9ce6-fa9c0b5f0b40" />
 
 </div>
 
